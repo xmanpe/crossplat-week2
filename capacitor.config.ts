@@ -1,9 +1,9 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
-  appName: 'myIonicReactApp',
-  webDir: 'dist',
+  appId: 'com.xmanpe.app',
+  appName: 'CrossPlat-Week2',
+  webDir: 'build',
   server: {
     androidScheme: 'https'
   }
